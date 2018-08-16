@@ -7,8 +7,8 @@ The objetive of the project is to learn so the final visual design won't be as i
 ## Game architecture
 * The game ui will be done int cocos2d-x c++ game engine.
 * This will be a centralized multiplayer game, to accomplish that the project will be compounded of two different parts
-**Part 1 (player): ** 
-* The
+* **Part 1 (player): ** The players will join the server to be able to play the game. Once the are all ready to play the game will start. Disconnections will be handled by removing the players.
+* **Part 2 (server):** The server 
 
 ## History of the project
 At this point i've decided to make the game with the cocos2d-x c++ engine, but this decision may chage in the future. When i first thought of this project i though the best idea was to make the ui with python using pygame and do the main heavy task of the game like updating the game state or handling colission, even connecting with other players with c++.
