@@ -5,8 +5,12 @@ This is supposed to be a car raccing game with the Mario Kart style, so you will
 The objetive of the project is to learn so the final visual design won't be as important as its internall code design or features.
 
 ## Game architecture
+* The game ui will be done int cocos2d-x c++ game engine.
+* This will be a centralized multiplayer game, to accomplish that the project will be compounded of two different parts
+**Part 1 (player): ** 
+* The
 
-
+## History of the project
 At this point i've decided to make the game with the cocos2d-x c++ engine, but this decision may chage in the future. When i first thought of this project i though the best idea was to make the ui with python using pygame and do the main heavy task of the game like updating the game state or handling colission, even connecting with other players with c++.
 For that propouse i would launch a python script that held the ui, this scrip would also launch a c++ process with wich it would communicate by pipes. Theres's an example of this in the trys folder.
 Since I have discovered cocos2d-x c++ engine this is no longer needed since i can do everything with c++.
