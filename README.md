@@ -21,3 +21,6 @@ Since I have discovered cocos2d-x c++ engine this is no longer needed since i ca
 Nevertheless the propose of this project is to learn, as i said it after, and while i was testing python to use pygame i learned a lot of thing about the language specially about python's multithreading syntax.
 
 I'm doing this kind of projects in summen in my university holidays so since i been doing some other games to practice with the cocos2d-x c++ engine i haven't foucus as much in this one so i might countinue it next summer 2019.
+
+[Cocos2d-x c++ game engine](http://www.cocos2d-x.org "Cocos2d-x c++ game engine")
+[Pygame](https://www.pygame.org "Pygame")
