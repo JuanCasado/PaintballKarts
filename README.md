@@ -22,6 +22,7 @@ Nevertheless the propose of this project is to learn, as i said it after, and wh
 
 I'm doing this kind of projects in summen in my university holidays so since i been doing some other games to practice with the cocos2d-x c++ engine i haven't foucus as much in this one so i might countinue it next summer 2019.
 
+Project done by Juan Casado Ballesteros
 
 [Mr.BlissfulGrin](http://www.mrblissfulgrin.com "mrblissfulgrin")
 
